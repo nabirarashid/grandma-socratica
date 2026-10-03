@@ -109,4 +109,5 @@ knob on the competitor's pricing policy.
 
 ## About
 
-Built in a weekend at the Making Dough buildathon, as a team. This is my fork.
+Built in a weekend at the Making Dough Socratica x Ramp buildathon, with my
+amazing team. This is my fork.
